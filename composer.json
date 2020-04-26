@@ -19,6 +19,6 @@
         "files": [
             "helpers/date.php"
         ]
-    }
-
+    },
+    "prefer-stable": true
 }
