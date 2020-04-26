@@ -1,0 +1,22 @@
+{
+    "name": "nilan/helper-functions",
+    "description": "PHP helper functions",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Nilan Amarasinghe",
+            "email": "nilan.a@hotmail.com"
+        }
+    ],
+    
+    "minimum-stability": "dev",
+
+    "require": {},
+
+    "autoload": {
+        "files": [
+            "helpers/date.php"
+        ]
+    }
+
+}
